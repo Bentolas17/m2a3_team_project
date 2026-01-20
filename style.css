@@ -1,3 +1,15 @@
+feature-about-footer
+/* Footer Styles */
+footer {
+	background-color: #333;
+	color: white;
+	text-align: center;
+	padding: 1rem;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
+
 /* Team Blog Styles - To be expanded */
 /* Navigation & Header Styles */
 header {
@@ -19,4 +31,25 @@ nav a:hover {
     border-radius: 4px;
 }
 
+master
+feature-about-footer
+/* Navigation & Header Styles */
+header {
+	background-color: #333;
+	color: white;
+	padding: 1rem;
+	text-align: center;
+}
+
+/* Footer Styles */
+footer {
+	background-color: #333;
+	color: white;
+	text-align: center;
+	padding: 1rem;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
+main
 
